@@ -101,13 +101,6 @@ python3 main.py
 
 ---
 
-## 🏆 Resultado
-
-🔥 **100 / 100 puntos** 🔥
-
-Proyecto completado con éxito.
-
----
 
 ## 🌻 Filosofía
 
