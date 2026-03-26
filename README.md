@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)
 ![Level](https://img.shields.io/badge/Level-Beginner-important)
 
 ---
